@@ -1,0 +1,9 @@
+fruits:
+- apple
+- банан
+- mango
+fruits_quantity: 3
+price:
+  apple: 11€
+  mango: 3333€
+  банан: 222€
