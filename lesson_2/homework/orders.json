@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "apples",
+            "quantity": "15",
+            "price": "100",
+            "buyer": "rabbit",
+            "date": "11.11.2021"
+        },
+        {
+            "item": "бананы",
+            "quantity": "20",
+            "price": "200",
+            "buyer": "обезьяна",
+            "date": "11.11.2021"
+        }
+    ]
+}
